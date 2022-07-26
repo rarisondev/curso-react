@@ -1,0 +1,15 @@
+.container {
+    max-width: 500px;
+    min-height: 300px;
+    border-radius: 10px;
+    border: 1px solid #08f02f;
+    margin: 30px auto;
+    overflow: auto;
+    padding: 30px;
+    
+ }
+
+ .h1 {
+   text-align: center;
+
+ }
