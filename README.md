@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+<h1 align="center" dir="auto">
+To do list feito com React js
+</h1>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
