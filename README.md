@@ -1,5 +1,5 @@
 <h1 align="center" dir="auto">
-To do list feito com React js
+To-do-list(Lista de tarefas) feito com React js
 </h1>
 
 ## Getting Started with Create React App
